@@ -40,8 +40,7 @@ This project demonstrates an **end-to-end data cleaning and preprocessing pipeli
 ## 📁 Repository Structure
 ```text
 ├── data/
-│   ├── raw/                  # Original, immutable raw dataset
-│   └── processed/            # Final cleaned and transformed dataset
+│   ├── raw/                  # Original, immutable raw dataset│   
 ├── notebooks/
 │   └── Data_Cleaning_Project.ipynb  # Step-by-step cleaning walkthrough
 ├── requirements.txt          # Reproducible environment dependencies
