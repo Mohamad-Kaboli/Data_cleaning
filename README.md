@@ -40,6 +40,3 @@ This project demonstrates an **end-to-end data cleaning and preprocessing pipeli
 ├── Data_Cleaning.ipynb       # Step-by-step cleaning walkthrough
 ├── requirements.txt          # Reproducible environment dependencies
 └── README.md                 # Project documentation
-
-
-## ⚙️ Key Preprocessing Steps
