@@ -18,10 +18,6 @@ This project demonstrates an **end-to-end data cleaning and preprocessing pipeli
 
 ## 🛠️ Tech Stack & Libraries
 
-- **Language:** Python 3.x
-- **Data Manipulation & Wrangling:** `Pandas`, `NumPy`
-
-- 
 1. **Data Ingestion & Structural Inspection:**
    - Evaluated data schemas, missingness patterns, and statistical distributions using `.info()`, `.describe()`, and `.isna().sum()`.
 2. **Missing Data Imputation & Handling:**
