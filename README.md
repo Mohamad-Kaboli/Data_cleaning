@@ -35,16 +35,11 @@ This project demonstrates an **end-to-end data cleaning and preprocessing pipeli
 
 ## 📁 Repository Structure
 ```text
-├── data/
-│   ├── raw/                  # Original, immutable raw dataset│   
-├── notebooks/
-│   └── Data_Cleaning_Project.ipynb  # Step-by-step cleaning walkthrough
+├── data set/
+│   ├── data/                 # Original, immutable raw dataset│   
+├── Data_Cleaning.ipynb       # Step-by-step cleaning walkthrough
 ├── requirements.txt          # Reproducible environment dependencies
 └── README.md                 # Project documentation
 
-- **Visualization & Anomaly Detection:** `Matplotlib`, `Seaborn`
-- **Environment:** Jupyter Notebook / VS Code
-
----
 
 ## ⚙️ Key Preprocessing Steps
